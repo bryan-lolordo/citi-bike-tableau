@@ -11,17 +11,17 @@ This is an analysis of citi bike data from the New York Citi Bike program. This 
 ## Tableau Visualization
 In this Tableau workbook you will find a number of visualizations including a Tableau story combining all visualizations and findings
 
-Dashboards of the stations locations and gender analysis of members -
+### Dashboards of the stations locations and gender analysis of members:
 
 ![station-locations-dashboard](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/4dfc8a18-efa0-43b3-8d41-b69a365ae4fc)
 ![citi-bike-gender-dashboard](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/a8de56a4-7966-4a66-a135-2544a2202dac)
 
-Charts of ride usage data - 
+### Charts of ride usage data:
 
 ![citi-bike-bike-utilization](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/93982cc0-4ef7-4d4b-a155-e00039dc6266)
 ![citi-bike-avg-duration](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/fcfbb52b-d355-46a3-9352-9f2608914271)
 
-Additional membership data and station data -
+### Additional membership data and station data:
   
 ![citi-bike-membership-data](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/17139256-cfdd-4e78-bffc-ae8f147c14e0)
 ![bike-station-bubble-chart](https://github.com/bryan-lolordo/citi-bike-tableau/assets/134180762/dce30a66-2a55-4ff7-83f2-7424c8736839)
